@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.author = {
+  s.authors = {
   	"Luka Gabrić" => "luka.gabric@gmail.com"
   }
   s.name         = "LPlaceholderTextView"
